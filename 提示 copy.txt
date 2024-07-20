@@ -1,0 +1,9 @@
+gpg如果配置失败请安装pinentry-mac并根据指示执行
+
+https://gist.github.com/paolocarrasco/18ca8fe6e63490ae1be23e84a7039374
+
+
+
+
+brew tap-new iaeieue/homebrew-test
+ brew create --cask --tap iaeieue/test https://github.com/MetaCubeX/ClashX.Meta/releases/download/v1.3.15/ClashX.Meta.zip
